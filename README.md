@@ -35,7 +35,7 @@ O script verificará a presença das palavras listadas no arquivo JSON e imprimi
 
 Estrutura
 A estrutura do projeto é a seguinte:
-<br>
+<br><br>
 projeto_json/<br>
 ├── palavras.json         # Arquivo JSON contendo os dados para análise<br>
 ├── verificador.py         # Script Python principal para verificar palavras no arquivo JSON<br>
