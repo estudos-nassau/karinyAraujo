@@ -15,13 +15,12 @@ Este projeto é um verificador desenvolvido para facilitar a busca e verificaç�
 
 **Instale as Dependências:**
 
-Este projeto usa a biblioteca padrão do Python e não requer pacotes adicionais além do Python. Certifique-se de que você tenha o Python 3.x instalado.
-
-Arquivo JSON
+- Este projeto usa a biblioteca padrão do Python e não requer pacotes adicionais além do Python. Certifique-se de que você tenha o Python 3.x instalado.
+- Arquivo JSON
 
 Use o arquivo JSON fornecido no projeto, ou use o seu próprio arquivo. Use no formato "json" e ajuste no codigo as palavras que deseja encontrar no seu arquivo.
 ## Execução
-Execute o Script
+**Execute o Script**
 
 Navegue até o diretório onde o script está localizado e execute o script Python usando o seguinte comando:
 
