@@ -33,7 +33,7 @@ python verificador.py
 
 O script verificará a presença das palavras listadas no arquivo JSON e imprimirá os resultados no terminal.
 
-Estrutura
+## Estrutura
 A estrutura do projeto é a seguinte:
 <br><br>
 projeto_json/<br>
