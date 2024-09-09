@@ -1,0 +1,22 @@
+{
+    "tecnologias": {
+      "linguagens": [
+        "Python"
+      ],
+      "temas": [
+        "Inteligência Artificial",
+        "Ciência de Dados"
+      ]
+    },
+    "projetos": [
+      {
+        "nome": "Projeto 1",
+        "descricao": "Uso de Python para análise de dados"
+      },
+      {
+        "nome": "Projeto 2",
+        "descricao": "Desenvolvimento de sistemas de Inteligência Artificial"
+      }
+    ]
+  }
+  
