@@ -27,8 +27,9 @@ Navegue até o diretório onde o script está localizado e execute o script Pyth
 
    ```bash
 python verificador.py
+```
 
-Verifique a Saída
+**Verifique a Saída**
 
 O script verificará a presença das palavras listadas no arquivo JSON e imprimirá os resultados no terminal.
 
