@@ -1,8 +1,8 @@
-# Projeto de Automação de E-mail
+# Verificador de palavras existente em arquivo JSON
 
 ## Contexto
 
-Este projeto é uma ferramenta para automação de e-mails, desenvolvida para facilitar a busca e verificação de palavras específicas em arquivos JSON. O objetivo é permitir a análise de grandes volumes de dados armazenados em arquivos JSON, buscando termos relevantes de forma eficiente.
+Este projeto é um verificador desenvolvido para facilitar a busca e verificação de palavras específicas em arquivos JSON. O objetivo é permitir a análise de grandes volumes de dados armazenados em arquivos JSON, buscando termos relevantes de forma eficiente.
 
 ## Configuração
 
@@ -13,19 +13,19 @@ Este projeto é uma ferramenta para automação de e-mails, desenvolvida para fa
    ```bash
    git clone https://github.com/estudos-nassau/karinyAraujo.git
 
-Instale as Dependências
+**Instale as Dependências:**
 
 Este projeto usa a biblioteca padrão do Python e não requer pacotes adicionais além do Python. Certifique-se de que você tenha o Python 3.x instalado.
 
 Arquivo JSON
 
-Prepare um arquivo JSON no formato especificado para uso com o projeto. Salve-o com o nome palavras.json ou ajuste o caminho no código conforme necessário.
-
+Use o arquivo JSON fornecido no projeto, ou use o seu próprio arquivo. Use no formato "json" e ajuste no codigo as palavras que deseja encontrar no seu arquivo.
 ## Execução
 Execute o Script
 
 Navegue até o diretório onde o script está localizado e execute o script Python usando o seguinte comando:
 
+   ```bash
 python verificador.py
 
 Verifique a Saída
